@@ -5,3 +5,7 @@ html {
 nav span {
   padding: 10px;
 }
+
+ul {
+  list-style-type: none;
+}
